@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_appbar_title">Change Appbar Title</string>
+    <string name="change_appbar_color">Change AppBar Color</string>
+    <string name="change_back_button_background">Change Back Button Background</string>
+    <string name="open_the_cat_picker_library">Open the cat picker library</string>
+</resources>

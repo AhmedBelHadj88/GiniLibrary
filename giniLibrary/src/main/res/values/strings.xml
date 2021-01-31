@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="colorsAlert">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BROWN</item>
+    </string-array>
+
+    <string-array name="backButtonAlert">
+        <item>Default Image</item>
+        <item>Custom Image</item>
+    </string-array>
+    <string name="title_changer">Title changer</string>
+    <string name="enter_a_new_title">Enter a new Title</string>
+</resources>
