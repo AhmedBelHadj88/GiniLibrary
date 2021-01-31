@@ -32,10 +32,4 @@ object CatImageLib {
             .addToBackStack(AllCatsFragment.TAG)
             .commit()
     }
-
-
-
-
-
-
 }
