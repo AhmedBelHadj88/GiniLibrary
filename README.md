@@ -20,4 +20,5 @@ You have to :
     }
 2. Implement CatImageListener Callback in the Parent in order to retrieve the selected picture url 
 3. Launch the cat list screen 
- -   CatImageLib.openCatList(requireActivity(), this, settings!!)
+* Example :
+    - CatImageLib.openCatList(requireActivity(), this, settings!!)
