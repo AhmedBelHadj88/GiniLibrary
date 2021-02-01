@@ -12,5 +12,4 @@ internal interface CatService {
         @Query("limit") limit: Int?,
         @Query("page") page: Int?
     ): Call<List<Image>>
-
 }

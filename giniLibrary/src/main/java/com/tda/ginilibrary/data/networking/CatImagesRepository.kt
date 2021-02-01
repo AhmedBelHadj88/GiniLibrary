@@ -8,5 +8,4 @@ internal interface CatImagesRepository {
         limit: Int?,
         page: Int?
     ): Response
-
 }

@@ -28,5 +28,4 @@ internal class AllCatsViewModel(getImageUseCase: GetImageUseCase) : ViewModel() 
             CatDataSource::state
         )
     }
-
 }
