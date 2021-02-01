@@ -31,7 +31,7 @@ internal class AppContainer {
         .addConverterFactory(GsonConverterFactory.create())
         .build()
 
-    private fun provideOkHttpClient(): OkHttpClient = OkHttpClient().newBuilder()
+    fun provideOkHttpClient(): OkHttpClient = OkHttpClient().newBuilder()
         .run {
             addInterceptor(provideLoggingInterceptor())
             readTimeout(10, TimeUnit.SECONDS)
